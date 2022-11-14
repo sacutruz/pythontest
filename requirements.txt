@@ -47,7 +47,7 @@ pandas==1.1.5
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
-Pillow==9.1.0
+Pillow==9.2.0
 platformdirs==2.5.2
 plotly==5.7.0
 prometheus-client==0.14.1
@@ -83,3 +83,4 @@ wcwidth==0.2.5
 webencodings==0.5.1
 wrapt==1.14.1
 zipp==3.8.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
