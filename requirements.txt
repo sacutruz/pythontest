@@ -15,7 +15,7 @@ defusedxml==0.7.1
 dill==0.3.4
 entrypoints==0.4
 fastjsonschema==2.15.3
-fonttools==4.33.3
+fonttools==4.61.0
 importlib-metadata==4.11.3
 importlib-resources==5.7.1
 ipykernel==6.13.0
@@ -75,7 +75,7 @@ terminado==0.13.3
 threadpoolctl==3.1.0
 tinycss2==1.1.1
 tomli==2.0.1
-tornado==6.1
+tornado==6.5.3
 traitlets==5.1.1
 typed-ast==1.5.3
 typing_extensions==4.2.0
